@@ -5,6 +5,7 @@ Python Code to analyze thylakoid grana stack vertical dimensions from x,y data o
 
 Python 3.7, Text editor Spyder 4.0.0 or above recommended
 The code has been tested last time in Python 3.7. It should also work in any Python 3 environments.
+Besides, ImageJ or Fiji software was used to generate "x,y data" from TEM images.
 
 ####====Input and Output====####
 
@@ -31,6 +32,7 @@ The calculation principle is described in the supplemental method 1 section of t
 ####====How to get the correct input csv file?====####
 
 Just in case one has not dealt with similar problem or never studied thylakoid structure, please see the following illustrated 
-screenshot for how to generate an input "x,y" dataset.
+screenshot for how to generate an input "x,y" dataset using ImageJ or Fiji:
 
+How_to_prepare_for_ThylakoidVD_csv.png
 
