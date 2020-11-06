@@ -26,7 +26,7 @@ the pdf and txt files given in the same folder. One can delete or move them (txt
 
 ####====The basic design====####
 
-The calculation principle is described in the supplemental method 1 section of the associated manuscript:
+The calculation principle is described in the supplemental method 1 section of the associated manuscript(please cite if you use it):
 Li M, Mukhopadhyay R, Svoboda V, Oung HMO, Mullendore DL, Kirchhoff H. 
 Measuring the dynamic response of the thylakoid architecture in plant leaves by electron microscopy. Plant Direct. 2020;00:1–14.
 https://doi.org/10.1002/pld3.280
